@@ -5,7 +5,7 @@ A Vue.js design that is responsive. (front end design)
 
 This is like a practice building a project with Vue.js. Nothing much; but could come in handy in the feature.
 <br/><br/>
-------------------------------<br/>
+=============================<br/>
 <b>Description:</b><br/>
 This is a build project. you can upload to a static server or server; only then you'll be able to view the content through the index.html
 <br/><br/>
