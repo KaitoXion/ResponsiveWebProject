@@ -19,10 +19,12 @@ https://github.com/zeit/serve
 <br/><br/>
 Below are the example of what the APP can do:~<br/><br/>
 <b>Desktop view:</b> </br><br/>
-![alt text](https://github.com/KaitoXion/ResponsiveWebProject/blob/master/desktopsResponsiveScrollViewEg.PNG)				
+![alt text](https://github.com/KaitoXion/ResponsiveWhatEverBank_webDesign/blob/master/Capture.PNG)				
 </br>
 </br>
+![alt text](https://github.com/KaitoXion/ResponsiveWhatEverBank_webDesign/blob/master/Capture2.PNG)		
+<br><br>
 <b>Mobile view:</b></br><br/>
-![alt text](https://github.com/KaitoXion/ResponsiveWebProject/blob/master/mobileResponsiveScrollViewEg.PNG)
+![alt text](https://github.com/KaitoXion/ResponsiveWhatEverBank_webDesign/blob/master/Capture3.PNG)
 
 
