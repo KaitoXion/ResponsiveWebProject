@@ -7,7 +7,7 @@ This is like a practice building a project with Vue.js. Nothing much; but could 
 <br/><br/>
 =============================<br/>
 <b>Description:</b><br/>
-This is a build project. you can upload to a static server or server; only then you'll be able to view the content through the index.html
+This is a build project. you can upload the *dist* file to a static server or server; only then you'll be able to view the content through the index.html
 <br/><br/>
 if you have installed "Serve" (a static server) or "npm install serve" (if you have Node.js installed), use the command:
 <br/>- serve dist 
