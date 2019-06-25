@@ -1,4 +1,4 @@
-# ResponsiveWebProject
+# ResponsiveWebProject (SinglePageUI)
 
 Project Name:WhatEverApp
 A Vue.js design that is responsive. (front end design)
