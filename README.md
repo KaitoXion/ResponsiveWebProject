@@ -3,7 +3,7 @@
 Project Name:WhatEverApp
 A Vue.js design that is responsive. (front end design)
 
-This is like a practice building a project with Vue.js. Nothing much; but could come in handy in the feature.
+This is like a practice building a project with Vue.js. ***With Custom Animation*** & Nothing much; but could come in handy in the feature.
 <br/><br/>
 =============================<br/>
 <b>Description:</b><br/>
